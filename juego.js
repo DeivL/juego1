@@ -3,7 +3,7 @@
   var x=0;
   var controlY=1;  
   var controlX=1;  
-  var velocidad=1;
+  var velocidad=3;
 
   // Cada 5 mili-segundos se va a ejecutar la función mover que comprueba
   // las colisiones de la pelota
